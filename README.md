@@ -24,3 +24,11 @@ resources:
   features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Fumadocs](https://fumadocs.vercel.app) - learn about Fumadocs
+
+## Fumadocs + UI
+
+つくる。
+
+[hiro platform](https://docs.hiro.so/stacks)を参考に。
+
+
